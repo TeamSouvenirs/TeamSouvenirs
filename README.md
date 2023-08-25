@@ -1,4 +1,4 @@
 Hello!
-This is Team Souvenirs'sofficial Github account.
-You are welcome to contact us!
+This is 30o3's official Github account.
+You are welcome to contact!
 Contact:team.souvenirs@outlook.com
